@@ -10,8 +10,27 @@
 		424DF02F1CFB762900B66432 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 424DF02E1CFB762900B66432 /* AppDelegate.swift */; };
 		424DF0311CFB762900B66432 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 424DF0301CFB762900B66432 /* ViewController.swift */; };
 		424DF0341CFB762A00B66432 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 424DF0321CFB762A00B66432 /* Main.storyboard */; };
-		424DF0361CFB762A00B66432 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 424DF0351CFB762A00B66432 /* Assets.xcassets */; };
 		424DF0391CFB762A00B66432 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 424DF0371CFB762A00B66432 /* LaunchScreen.storyboard */; };
+		424DF0411CFB76F500B66432 /* Charakter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 424DF0401CFB76F500B66432 /* Charakter.swift */; };
+		424DF0431CFBE95100B66432 /* Gracz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 424DF0421CFBE95100B66432 /* Gracz.swift */; };
+		424DF0451CFBEF0100B66432 /* Przeciwnik.swift in Sources */ = {isa = PBXBuildFile; fileRef = 424DF0441CFBEF0100B66432 /* Przeciwnik.swift */; };
+		424DF0471CFC4EDA00B66432 /* Zombie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 424DF0461CFC4EDA00B66432 /* Zombie.swift */; };
+		424DF0491CFC539F00B66432 /* Goblin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 424DF0481CFC539F00B66432 /* Goblin.swift */; };
+		424DF04B1CFC55E200B66432 /* Niebieskowłosy Marian.swift in Sources */ = {isa = PBXBuildFile; fileRef = 424DF04A1CFC55E200B66432 /* Niebieskowłosy Marian.swift */; };
+		424DF0561CFC586A00B66432 /* Knife01.png in Resources */ = {isa = PBXBuildFile; fileRef = 424DF04E1CFC586900B66432 /* Knife01.png */; };
+		424DF0571CFC586A00B66432 /* Weapon01.png in Resources */ = {isa = PBXBuildFile; fileRef = 424DF04F1CFC586A00B66432 /* Weapon01.png */; };
+		424DF0591CFC586A00B66432 /* Attacking_000 prawa.png in Resources */ = {isa = PBXBuildFile; fileRef = 424DF0511CFC586A00B66432 /* Attacking_000 prawa.png */; };
+		424DF05A1CFC586A00B66432 /* Attack__000 prawa.png in Resources */ = {isa = PBXBuildFile; fileRef = 424DF0521CFC586A00B66432 /* Attack__000 prawa.png */; };
+		424DF05B1CFC586A00B66432 /* cavebackground.png in Resources */ = {isa = PBXBuildFile; fileRef = 424DF0531CFC586A00B66432 /* cavebackground.png */; };
+		424DF05C1CFC586A00B66432 /* Defend_006.png in Resources */ = {isa = PBXBuildFile; fileRef = 424DF0541CFC586A00B66432 /* Defend_006.png */; };
+		424DF05D1CFC586A00B66432 /* Bomb.png in Resources */ = {isa = PBXBuildFile; fileRef = 424DF0551CFC586A00B66432 /* Bomb.png */; };
+		424DF0601CFC63F100B66432 /* napis.png in Resources */ = {isa = PBXBuildFile; fileRef = 424DF05F1CFC63F100B66432 /* napis.png */; };
+		424DF0621CFC705B00B66432 /* Treasure_Chest_PNG_Picture.png in Resources */ = {isa = PBXBuildFile; fileRef = 424DF0611CFC705B00B66432 /* Treasure_Chest_PNG_Picture.png */; };
+		424DF0641CFC948100B66432 /* AttackButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 424DF0631CFC948100B66432 /* AttackButton.png */; };
+		42BDF79B1CFE368500F43D67 /* Shooting_000.png in Resources */ = {isa = PBXBuildFile; fileRef = 42BDF79A1CFE368500F43D67 /* Shooting_000.png */; };
+		42BDF79F1CFEDD1800F43D67 /* Fork copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 42BDF79C1CFEDD1800F43D67 /* Fork copy.png */; };
+		42BDF7A01CFEDD1800F43D67 /* Right Arm copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 42BDF79D1CFEDD1800F43D67 /* Right Arm copy.png */; };
+		42BDF7A11CFEDD1800F43D67 /* Axe copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 42BDF79E1CFEDD1800F43D67 /* Axe copy.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,9 +38,28 @@
 		424DF02E1CFB762900B66432 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		424DF0301CFB762900B66432 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		424DF0331CFB762A00B66432 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		424DF0351CFB762A00B66432 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		424DF0381CFB762A00B66432 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		424DF03A1CFB762A00B66432 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		424DF0401CFB76F500B66432 /* Charakter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Charakter.swift; sourceTree = "<group>"; };
+		424DF0421CFBE95100B66432 /* Gracz.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Gracz.swift; sourceTree = "<group>"; };
+		424DF0441CFBEF0100B66432 /* Przeciwnik.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Przeciwnik.swift; sourceTree = "<group>"; };
+		424DF0461CFC4EDA00B66432 /* Zombie.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Zombie.swift; sourceTree = "<group>"; };
+		424DF0481CFC539F00B66432 /* Goblin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Goblin.swift; sourceTree = "<group>"; };
+		424DF04A1CFC55E200B66432 /* Niebieskowłosy Marian.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Niebieskowłosy Marian.swift"; sourceTree = "<group>"; };
+		424DF04E1CFC586900B66432 /* Knife01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Knife01.png; path = ../../Knife01.png; sourceTree = "<group>"; };
+		424DF04F1CFC586A00B66432 /* Weapon01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Weapon01.png; path = ../../Weapon01.png; sourceTree = "<group>"; };
+		424DF0511CFC586A00B66432 /* Attacking_000 prawa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Attacking_000 prawa.png"; path = "../../Attacking_000 prawa.png"; sourceTree = "<group>"; };
+		424DF0521CFC586A00B66432 /* Attack__000 prawa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Attack__000 prawa.png"; path = "../../Attack__000 prawa.png"; sourceTree = "<group>"; };
+		424DF0531CFC586A00B66432 /* cavebackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cavebackground.png; path = ../../cavebackground.png; sourceTree = "<group>"; };
+		424DF0541CFC586A00B66432 /* Defend_006.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Defend_006.png; path = ../../Defend_006.png; sourceTree = "<group>"; };
+		424DF0551CFC586A00B66432 /* Bomb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Bomb.png; path = ../../Bomb.png; sourceTree = "<group>"; };
+		424DF05F1CFC63F100B66432 /* napis.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = napis.png; path = ../../napis.png; sourceTree = "<group>"; };
+		424DF0611CFC705B00B66432 /* Treasure_Chest_PNG_Picture.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Treasure_Chest_PNG_Picture.png; path = ../../Treasure_Chest_PNG_Picture.png; sourceTree = "<group>"; };
+		424DF0631CFC948100B66432 /* AttackButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AttackButton.png; sourceTree = "<group>"; };
+		42BDF79A1CFE368500F43D67 /* Shooting_000.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Shooting_000.png; sourceTree = "<group>"; };
+		42BDF79C1CFEDD1800F43D67 /* Fork copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Fork copy.png"; sourceTree = "<group>"; };
+		42BDF79D1CFEDD1800F43D67 /* Right Arm copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Right Arm copy.png"; sourceTree = "<group>"; };
+		42BDF79E1CFEDD1800F43D67 /* Axe copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Axe copy.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,11 +95,38 @@
 				424DF02E1CFB762900B66432 /* AppDelegate.swift */,
 				424DF0301CFB762900B66432 /* ViewController.swift */,
 				424DF0321CFB762A00B66432 /* Main.storyboard */,
-				424DF0351CFB762A00B66432 /* Assets.xcassets */,
+				424DF05E1CFC587200B66432 /* obrazki */,
 				424DF0371CFB762A00B66432 /* LaunchScreen.storyboard */,
 				424DF03A1CFB762A00B66432 /* Info.plist */,
+				424DF0401CFB76F500B66432 /* Charakter.swift */,
+				424DF0421CFBE95100B66432 /* Gracz.swift */,
+				424DF0441CFBEF0100B66432 /* Przeciwnik.swift */,
+				424DF0461CFC4EDA00B66432 /* Zombie.swift */,
+				424DF0481CFC539F00B66432 /* Goblin.swift */,
+				424DF04A1CFC55E200B66432 /* Niebieskowłosy Marian.swift */,
 			);
 			path = "Pirate Inn";
+			sourceTree = "<group>";
+		};
+		424DF05E1CFC587200B66432 /* obrazki */ = {
+			isa = PBXGroup;
+			children = (
+				42BDF79C1CFEDD1800F43D67 /* Fork copy.png */,
+				42BDF79D1CFEDD1800F43D67 /* Right Arm copy.png */,
+				42BDF79E1CFEDD1800F43D67 /* Axe copy.png */,
+				42BDF79A1CFE368500F43D67 /* Shooting_000.png */,
+				424DF0611CFC705B00B66432 /* Treasure_Chest_PNG_Picture.png */,
+				424DF05F1CFC63F100B66432 /* napis.png */,
+				424DF04F1CFC586A00B66432 /* Weapon01.png */,
+				424DF0631CFC948100B66432 /* AttackButton.png */,
+				424DF0511CFC586A00B66432 /* Attacking_000 prawa.png */,
+				424DF0521CFC586A00B66432 /* Attack__000 prawa.png */,
+				424DF0531CFC586A00B66432 /* cavebackground.png */,
+				424DF04E1CFC586900B66432 /* Knife01.png */,
+				424DF0541CFC586A00B66432 /* Defend_006.png */,
+				424DF0551CFC586A00B66432 /* Bomb.png */,
+			);
+			name = obrazki;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,8 +188,21 @@
 			buildActionMask = 2147483647;
 			files = (
 				424DF0391CFB762A00B66432 /* LaunchScreen.storyboard in Resources */,
-				424DF0361CFB762A00B66432 /* Assets.xcassets in Resources */,
+				424DF05A1CFC586A00B66432 /* Attack__000 prawa.png in Resources */,
+				424DF0591CFC586A00B66432 /* Attacking_000 prawa.png in Resources */,
+				424DF05B1CFC586A00B66432 /* cavebackground.png in Resources */,
+				424DF0621CFC705B00B66432 /* Treasure_Chest_PNG_Picture.png in Resources */,
+				424DF0561CFC586A00B66432 /* Knife01.png in Resources */,
+				424DF0601CFC63F100B66432 /* napis.png in Resources */,
+				42BDF79F1CFEDD1800F43D67 /* Fork copy.png in Resources */,
+				42BDF7A11CFEDD1800F43D67 /* Axe copy.png in Resources */,
+				424DF05C1CFC586A00B66432 /* Defend_006.png in Resources */,
+				424DF05D1CFC586A00B66432 /* Bomb.png in Resources */,
+				424DF0571CFC586A00B66432 /* Weapon01.png in Resources */,
+				42BDF7A01CFEDD1800F43D67 /* Right Arm copy.png in Resources */,
 				424DF0341CFB762A00B66432 /* Main.storyboard in Resources */,
+				42BDF79B1CFE368500F43D67 /* Shooting_000.png in Resources */,
+				424DF0641CFC948100B66432 /* AttackButton.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,8 +213,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				424DF0451CFBEF0100B66432 /* Przeciwnik.swift in Sources */,
 				424DF0311CFB762900B66432 /* ViewController.swift in Sources */,
+				424DF0431CFBE95100B66432 /* Gracz.swift in Sources */,
+				424DF04B1CFC55E200B66432 /* Niebieskowłosy Marian.swift in Sources */,
+				424DF0471CFC4EDA00B66432 /* Zombie.swift in Sources */,
 				424DF02F1CFB762900B66432 /* AppDelegate.swift in Sources */,
+				424DF0491CFC539F00B66432 /* Goblin.swift in Sources */,
+				424DF0411CFB76F500B66432 /* Charakter.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,6 +370,7 @@
 				424DF03F1CFB762A00B66432 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
